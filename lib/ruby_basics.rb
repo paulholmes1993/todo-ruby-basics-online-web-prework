@@ -23,5 +23,5 @@ last_evaluated_value = "expert"
 end
 
 def pizza_party(topping = "cheese")
-pizza_party
+pizza_party = topping
 end
